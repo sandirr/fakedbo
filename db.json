@@ -9,5 +9,57 @@
     ],
     "profile": {
       "name": "typicode"
-    }
+    },
+    "salesmans/list": [
+      {
+        "id": 7513,
+        "referral_code": "WCMWB6",
+        "name": "INDRIA LIMBARA",
+        "email": "indria.limbara@gmail.com",
+        "mobile_number": "082375410919",
+        "agent_id": 730,
+        "created_at": "2024-09-24 08:52:47 +0700 WIB",
+        "updated_at": "2024-09-24 08:54:23 +0700 WIB",
+        "deleted_at": "",
+        "is_verified": 0,
+        "verified_date": "",
+        "mobile_verified": "",
+        "email_verified": "",
+        "is_default": 0,
+        "agent_name": "PT. Afindo Mandiri Perkasa Mulia",
+        "salesman_type": "Salesman",
+        "template_id": 0,
+        "visitation_delete": "",
+        "brand_id": 1,
+        "salesman_brand": "Rucika",
+        "count_mystore": "",
+        "count_myprospect": "",
+        "user_updated_email": "cvampjambi@gmail.com"
+      },
+      {
+        "id": 7512,
+        "referral_code": "PANLT8",
+        "name": "Awaludin Shah",
+        "email": "Awalsyah999@gmail.com",
+        "mobile_number": "085316122979",
+        "agent_id": 149,
+        "created_at": "2024-09-23 10:20:39 +0700 WIB",
+        "updated_at": "2024-09-23 10:20:39 +0700 WIB",
+        "deleted_at": "",
+        "is_verified": 0,
+        "verified_date": "",
+        "mobile_verified": "",
+        "email_verified": "",
+        "is_default": 1,
+        "agent_name": "Mega Bangunan Sukses-Subang",
+        "salesman_type": "Salesman",
+        "template_id": 0,
+        "visitation_delete": "",
+        "brand_id": 1,
+        "salesman_brand": "Rucika, Djabesmen",
+        "count_mystore": "",
+        "count_myprospect": "",
+        "user_updated_email": "ptmbssubang.dbo@gmail.com"
+      }
+    ]
   }
