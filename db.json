@@ -62,7 +62,7 @@
         "user_updated_email": "ptmbssubang.dbo@gmail.com"
       }
     ],
-    "salesmans/export": {
+    "salesmans-export": {
       "s3_url": "https://staging-mngr.dbo.id/templates/format-file-order-upload.csv"
     }
   }
