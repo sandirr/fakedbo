@@ -64,5 +64,37 @@
     ],
     "salesmans-export": {
       "s3_url": "https://staging-mngr.dbo.id/templates/format-file-order-upload.csv"
-    }
+    },
+    "product-alias": [
+      {
+        "id": 100217,
+        "agent_id": 101,
+        "agent_name": "Demo MU - DBO",
+        "brand_id": 1,
+        "brand_name": "Rucika",
+        "SKU": "21064109025000",
+        "productName": "EQUAL TEE DIA 25 MM",
+        "is_active": true,
+        "alias_sku": "BG21064109025000",
+        "alias_name": "ANDI GANTENG",
+        "is_active_agent": false,
+        "modified_by": "Renita Salshabila",
+        "updated_at": "2024-09-04 09:42:20"
+      },
+      {
+        "id": 100217,
+        "agent_id": 101,
+        "agent_name": "Demo MU - DBO",
+        "brand_id": 1,
+        "brand_name": "Rucika",
+        "SKU": "21064109025000",
+        "productName": "EQUAL TEE DIA 25 MM",
+        "is_active": false,
+        "alias_sku": "BG21064109025000",
+        "alias_name": "ANDI GANTENG",
+        "is_active_agent": true,
+        "modified_by": "Renita Salshabila",
+        "updated_at": "2024-09-04 09:42:20"
+      }
+    ]
   }
